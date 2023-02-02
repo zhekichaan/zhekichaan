@@ -4,7 +4,7 @@ Hi there,
 - 🌱 I’m currently learning everything related to it
 - 👯 I’m looking to collaborate with interesting and fun people
 - 📫 You can find and contact me using the links below 👇🏻
-- ⚡ Fun fact: love cookies 🍪
+- ⚡ Fun fact: cat lover 🐱
  
  
 🗂️My contacts & social media:
