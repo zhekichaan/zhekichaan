@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there,
 
-<!--
-**zhekichaan/zhekichaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on getting a job in IT 
+🌱 I’m currently learning everything related to it 
+👯 I’m looking to collaborate with interesting and fun people 
+📫 You can find and contact me using the links below 👇🏻
+⚡ Fun fact: love cookies 🍪
+🗂️My contacts & social media:
 
-Here are some ideas to get you started:
+📱 +1(647)515-1069
+Gmail y.chernytskyi@gmail.com
+LinkedIn pixelboyxl
+Telegram therealco_okie
+Instagram therealco_okie
+🛠My stack & tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub  Git  Terminal  Visual Studio Code  HTML  CSS  SACC  JavaScript  TypeScript  React  Node.js  NPM  Parcel  Webpack  Babel  Pixabay  TMDB  Firebase  mockAPI  MongoBD 
