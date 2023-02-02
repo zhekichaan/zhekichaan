@@ -15,9 +15,5 @@ Hi there,
 📱 +1(647)515-1069
 
 Gmail y.chernytskyi@gmail.com
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 LinkedIn pixelboyxl
-Telegram therealco_okie
-Instagram therealco_okie
-🛠My stack & tools:
-
-GitHub  Git  Terminal  Visual Studio Code  HTML  CSS  SACC  JavaScript  TypeScript  React  Node.js  NPM  Parcel  Webpack  Babel  Pixabay  TMDB  Firebase  mockAPI  MongoBD 
