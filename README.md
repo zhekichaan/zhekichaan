@@ -9,11 +9,11 @@
 
 Frontend Developer from Ukraine
 
-<!-- - :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
-- :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
-- :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
- -->
+- 🔭 I’m currently working on **a lot of different stuff**
+- 🌱 I’m currently learning **everything I can get my hands on**
+- 🐱‍🏍 I'm looking for a new job
+- 📫 How to reach me: **y.chernytskyi@gmail.com**
+- ⚡ Fun fact: **I love coding**
 
 <br>
 
