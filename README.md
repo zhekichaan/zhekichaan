@@ -203,7 +203,7 @@ Frontend Developer from Ukraine
 
 ## ☄️ Contact
 
-- :airplane: &nbsp;**[Telegram](https://t.me/zhekichaan)**
+- :airplane: &nbsp;**[Telegram](https://t.me/zhekichaaan)**
 - :comet: &nbsp;**[Github](https://github.com/zhekichaan)**
 
 <br>
