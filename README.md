@@ -5,30 +5,15 @@
 
 <h1 align="left">:wave: Hello there! I'm Yevhen Chernytskyi</h1>
 
-<div>
-<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
-<a href="https://www.twitch.tv/siberiacancode/">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/siberiacancode?style=social"></a>
-</div>
-
 <br>
 
-Frontend Developer from Siberia 🧊
+Frontend Developer from Ukraine
 
-- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
+<!-- - :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
-
-<br>
-
-## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
-
-- ### [🎉 Mock Config Server](https://www.npmjs.com/package/mock-config-server)
-  tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [Lodash Omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
-  lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
+ -->
 
 <br>
 
