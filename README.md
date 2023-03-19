@@ -77,12 +77,6 @@ Frontend Developer from Ukraine
       </a>
       <br>github
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>docker
-    </td>
   </tr> 
 </table>
 
