@@ -1,9 +1,9 @@
-<a href="https://github.com/siberiacancode">
+<!-- <a href="https://github.com/siberiacancode">
   <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
       siberiacancode" align="center"/>
-</a>
+</a> -->
 
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
+<h1 align="left">:wave: Hello there! I'm Yevhen Chernytskyi</h1>
 
 <div>
 <a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
