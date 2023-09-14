@@ -11,7 +11,7 @@ Frontend Developer from Ukraine
 
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
-- 🐱‍🏍 I'm looking for a new job
+- 💻 I'm looking for a new job
 - 📫 How to reach me: **y.chernytskyi@gmail.com**
 - ⚡ Fun fact: **I love coding**
 
