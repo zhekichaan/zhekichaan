@@ -3,7 +3,7 @@
       siberiacancode" align="center"/>
 </a> -->
 
-<h1 align="left">:wave: Hello there! I'm Yevhen Chernytskyi</h1>
+<h1 align="left">:wave: Hello there! I'm Yevhen</h1>
 
 <br>
 
