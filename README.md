@@ -7,7 +7,7 @@
 
 <br>
 
-Frontend Developer from Ukraine
+Full-Stack Developer based in Toronto
 
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
@@ -203,7 +203,7 @@ Frontend Developer from Ukraine
 
 ## ☄️ Contact
 
-- :airplane: &nbsp;**[Telegram](https://t.me/zhekichaaan)**
+- :airplane: &nbsp;**[Telegram](https://t.me/blessedminion)**
 - :comet: &nbsp;**[Github](https://github.com/zhekichaan)**
 
 <br>
