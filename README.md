@@ -1,17 +1,1 @@
-const techStack: String[] = [
-  "C",
-  "C++",
-  "C#",
-  "Java",
-  "JavaScript",
-  "React",
-  "Next.JS",
-  "NoSQL",
-  "SQL",
-  "OpenGL",
-  "OpenTK",
-  "Unity"
-];  
-  
-for (tech : techStack) { console.log(tech) };
-  
+![typing animation](https://readme-typing-svg.demolab.com?lines=C;C++;C%23;Java;JavaScript;React;Next.JS;SQL;Unity)
